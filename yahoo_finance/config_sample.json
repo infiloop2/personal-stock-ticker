@@ -1,0 +1,12 @@
+{
+    "portfolio": [
+        {
+            "ticker": "AAPL",
+            "quantity": 6
+        },
+        {
+            "ticker": "TSLA",
+            "quantity": 8
+        }
+    ]
+}
